@@ -6,7 +6,41 @@
         xmlns:local="clr-namespace:Projet_Progra"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
 
+        <StackPanel Orientation="Vertical" Grid.Row="0" Margin="0,5">
+            <TextBlock Text="Votre adresse mail :"/>
+            <TextBox x:Name="tbFrom" Width="200"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Vertical" Grid.Row="1" Margin="0,5">
+            <TextBlock Text="Mot de passe / Clé d'application:"/>
+            <PasswordBox x:Name="pbPassword" Width="300"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Vertical" Grid.Row="2" Margin="0,5">
+            <TextBlock Text="Destinataire :"/>
+            <TextBox x:Name="tbTo" Width="300"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Vertical" Grid.Row="3" Margin="0,5">
+            <TextBlock Text="Objet :"/>
+            <TextBox x:Name="tbSubject" Width="300"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Vertical" Grid.Row="4" Margin="0,5">
+            <TextBlock Text="Message :"/>
+            <TextBox x:Name="tbBody" Width="500" Height="150" TextWrapping="Wrap" AcceptsReturn="True"/>
+        </StackPanel>
+        <Button x:Name="btnSend" Content="Envoyer" Grid.Row="5" Width="100" Height="30" HorizontalAlignment="Left" Margin="0,10,0,0" Click="btnSend_Click"/>
+        <TextBlock x:Name="tbStatus" Grid.Row="5" Margin="120,10,0,0" HorizontalAlignment="Right" VerticalAlignment="Center" Foreground="Red"/>
     </Grid>
 </Window>
