@@ -9,6 +9,30 @@
     {
       "AbsoluteMoniker": "D:0:0:{06971CD2-D374-44EC-9E77-DEE8FBDFF322}|Projet_Progra\\Projet_Progra.csproj|c:\\users\\leofe\\desktop\\progra\\projet_progra\\projet_progra\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{06971CD2-D374-44EC-9E77-DEE8FBDFF322}|Projet_Progra\\Projet_Progra.csproj|solutionrelative:projet_progra\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06971CD2-D374-44EC-9E77-DEE8FBDFF322}|Projet_Progra\\Projet_Progra.csproj|c:\\users\\leofe\\desktop\\progra\\projet_progra\\projet_progra\\todo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{06971CD2-D374-44EC-9E77-DEE8FBDFF322}|Projet_Progra\\Projet_Progra.csproj|solutionrelative:projet_progra\\todo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06971CD2-D374-44EC-9E77-DEE8FBDFF322}|Projet_Progra\\Projet_Progra.csproj|c:\\users\\leofe\\desktop\\progra\\projet_progra\\projet_progra\\mail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{06971CD2-D374-44EC-9E77-DEE8FBDFF322}|Projet_Progra\\Projet_Progra.csproj|solutionrelative:projet_progra\\mail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06971CD2-D374-44EC-9E77-DEE8FBDFF322}|Projet_Progra\\Projet_Progra.csproj|c:\\users\\leofe\\desktop\\progra\\projet_progra\\projet_progra\\mail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06971CD2-D374-44EC-9E77-DEE8FBDFF322}|Projet_Progra\\Projet_Progra.csproj|solutionrelative:projet_progra\\mail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06971CD2-D374-44EC-9E77-DEE8FBDFF322}|Projet_Progra\\Projet_Progra.csproj|c:\\users\\leofe\\desktop\\progra\\projet_progra\\projet_progra\\todo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06971CD2-D374-44EC-9E77-DEE8FBDFF322}|Projet_Progra\\Projet_Progra.csproj|solutionrelative:projet_progra\\todo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06971CD2-D374-44EC-9E77-DEE8FBDFF322}|Projet_Progra\\Projet_Progra.csproj|c:\\users\\leofe\\desktop\\progra\\projet_progra\\projet_progra\\tasktotextdecorationconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06971CD2-D374-44EC-9E77-DEE8FBDFF322}|Projet_Progra\\Projet_Progra.csproj|solutionrelative:projet_progra\\tasktotextdecorationconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06971CD2-D374-44EC-9E77-DEE8FBDFF322}|Projet_Progra\\Projet_Progra.csproj|c:\\users\\leofe\\desktop\\progra\\projet_progra\\projet_progra\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06971CD2-D374-44EC-9E77-DEE8FBDFF322}|Projet_Progra\\Projet_Progra.csproj|solutionrelative:projet_progra\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +42,87 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskToTextDecorationConverter.cs",
+              "DocumentMoniker": "C:\\Users\\leofe\\Desktop\\Progra\\Projet_Progra\\Projet_Progra\\TaskToTextDecorationConverter.cs",
+              "RelativeDocumentMoniker": "Projet_Progra\\TaskToTextDecorationConverter.cs",
+              "ToolTip": "C:\\Users\\leofe\\Desktop\\Progra\\Projet_Progra\\Projet_Progra\\TaskToTextDecorationConverter.cs",
+              "RelativeToolTip": "Projet_Progra\\TaskToTextDecorationConverter.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T08:35:21.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\leofe\\Desktop\\Progra\\Projet_Progra\\Projet_Progra\\TaskItem.cs",
+              "RelativeDocumentMoniker": "Projet_Progra\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\leofe\\Desktop\\Progra\\Projet_Progra\\Projet_Progra\\TaskItem.cs",
+              "RelativeToolTip": "Projet_Progra\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T08:32:02.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ToDo.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\leofe\\Desktop\\Progra\\Projet_Progra\\Projet_Progra\\ToDo.xaml.cs",
+              "RelativeDocumentMoniker": "Projet_Progra\\ToDo.xaml.cs",
+              "ToolTip": "C:\\Users\\leofe\\Desktop\\Progra\\Projet_Progra\\Projet_Progra\\ToDo.xaml.cs",
+              "RelativeToolTip": "Projet_Progra\\ToDo.xaml.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwDUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T08:28:24.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ToDo.xaml",
+              "DocumentMoniker": "C:\\Users\\leofe\\Desktop\\Progra\\Projet_Progra\\Projet_Progra\\ToDo.xaml",
+              "RelativeDocumentMoniker": "Projet_Progra\\ToDo.xaml",
+              "ToolTip": "C:\\Users\\leofe\\Desktop\\Progra\\Projet_Progra\\Projet_Progra\\ToDo.xaml",
+              "RelativeToolTip": "Projet_Progra\\ToDo.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-02T08:15:56.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mail.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\leofe\\Desktop\\Progra\\Projet_Progra\\Projet_Progra\\Mail.xaml.cs",
+              "RelativeDocumentMoniker": "Projet_Progra\\Mail.xaml.cs",
+              "ToolTip": "C:\\Users\\leofe\\Desktop\\Progra\\Projet_Progra\\Projet_Progra\\Mail.xaml.cs",
+              "RelativeToolTip": "Projet_Progra\\Mail.xaml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAD4vzQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T08:01:54.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mail.xaml",
+              "DocumentMoniker": "C:\\Users\\leofe\\Desktop\\Progra\\Projet_Progra\\Projet_Progra\\Mail.xaml",
+              "RelativeDocumentMoniker": "Projet_Progra\\Mail.xaml",
+              "ToolTip": "C:\\Users\\leofe\\Desktop\\Progra\\Projet_Progra\\Projet_Progra\\Mail.xaml",
+              "RelativeToolTip": "Projet_Progra\\Mail.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-02T08:01:34.979Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -44,7 +144,7 @@
               "RelativeDocumentMoniker": "Projet_Progra\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\leofe\\Desktop\\Progra\\Projet_Progra\\Projet_Progra\\MainWindow.xaml.cs",
               "RelativeToolTip": "Projet_Progra\\MainWindow.xaml.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAIA8wCAAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAkwCMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-25T08:49:47.553Z",
               "EditorCaption": ""

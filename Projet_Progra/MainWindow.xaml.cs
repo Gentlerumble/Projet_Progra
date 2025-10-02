@@ -24,32 +24,23 @@ namespace Projet_Progra
             InitializeComponent();
         }
 
-        private void btnSend_Click(object sender, RoutedEventArgs e)
+        private void Quitter_Click(object sender, RoutedEventArgs e)
         {
-            try
-            {
-                string from = tbFrom.Text;
-                string password = pbPassword.Password;
-                string to = tbTo.Text;
-                string subject = tbSubject.Text;
-                string body = tbBody.Text;
+            Application.Current.Shutdown();
+        }
 
-                MailMessage mail = new MailMessage(from, to, subject, body);
+        private void OpenMail_Click(object sender, RoutedEventArgs e)
+        {
+            Mail mailWindow = new Mail();
+            mailWindow.Show();
+            
+        }
 
-                SmtpClient client = new SmtpClient("smtp.gmail.com", 587);
-                client.Credentials = new NetworkCredential(from, password);
-                client.EnableSsl = true;
-
-                client.Send(mail);
-
-                tbStatus.Text = "Mail envoyé avec succès";
-                tbStatus.Foreground = System.Windows.Media.Brushes.Green;
-            }
-            catch (Exception ex)
-            {
-                tbStatus.Text = "Erreur lors de l'envoi du mail: " + ex.Message;
-                tbStatus.Foreground = System.Windows.Media.Brushes.Red;
-            }
+        private void OpenToDo_Click(object sender, RoutedEventArgs e)
+        {
+            ToDo todoWindow = new ToDo();
+            todoWindow.Show();
+            
         }
     }
 }
