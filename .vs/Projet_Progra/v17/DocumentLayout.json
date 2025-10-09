@@ -3,36 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\leofe\\Desktop\\Progra\\Projet_Progra\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{06971CD2-D374-44EC-9E77-DEE8FBDFF322}|Projet_Progra\\Projet_Progra.csproj|c:\\users\\leofe\\desktop\\progra\\projet_progra\\projet_progra\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06971CD2-D374-44EC-9E77-DEE8FBDFF322}|Projet_Progra\\Projet_Progra.csproj|solutionrelative:projet_progra\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{06971CD2-D374-44EC-9E77-DEE8FBDFF322}|Projet_Progra\\Projet_Progra.csproj|c:\\users\\leofe\\desktop\\progra\\projet_progra\\projet_progra\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{06971CD2-D374-44EC-9E77-DEE8FBDFF322}|Projet_Progra\\Projet_Progra.csproj|solutionrelative:projet_progra\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06971CD2-D374-44EC-9E77-DEE8FBDFF322}|Projet_Progra\\Projet_Progra.csproj|c:\\users\\leofe\\desktop\\progra\\projet_progra\\projet_progra\\todo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{06971CD2-D374-44EC-9E77-DEE8FBDFF322}|Projet_Progra\\Projet_Progra.csproj|solutionrelative:projet_progra\\todo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{06971CD2-D374-44EC-9E77-DEE8FBDFF322}|Projet_Progra\\Projet_Progra.csproj|c:\\users\\leofe\\desktop\\progra\\projet_progra\\projet_progra\\views\\chrono.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{06971CD2-D374-44EC-9E77-DEE8FBDFF322}|Projet_Progra\\Projet_Progra.csproj|solutionrelative:projet_progra\\views\\chrono.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06971CD2-D374-44EC-9E77-DEE8FBDFF322}|Projet_Progra\\Projet_Progra.csproj|c:\\users\\leofe\\desktop\\progra\\projet_progra\\projet_progra\\mail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{06971CD2-D374-44EC-9E77-DEE8FBDFF322}|Projet_Progra\\Projet_Progra.csproj|solutionrelative:projet_progra\\mail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{06971CD2-D374-44EC-9E77-DEE8FBDFF322}|Projet_Progra\\Projet_Progra.csproj|c:\\users\\leofe\\desktop\\progra\\projet_progra\\projet_progra\\viewmodels\\chronoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06971CD2-D374-44EC-9E77-DEE8FBDFF322}|Projet_Progra\\Projet_Progra.csproj|solutionrelative:projet_progra\\viewmodels\\chronoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06971CD2-D374-44EC-9E77-DEE8FBDFF322}|Projet_Progra\\Projet_Progra.csproj|c:\\users\\leofe\\desktop\\progra\\projet_progra\\projet_progra\\mail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06971CD2-D374-44EC-9E77-DEE8FBDFF322}|Projet_Progra\\Projet_Progra.csproj|solutionrelative:projet_progra\\mail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06971CD2-D374-44EC-9E77-DEE8FBDFF322}|Projet_Progra\\Projet_Progra.csproj|c:\\users\\leofe\\desktop\\progra\\projet_progra\\projet_progra\\models\\chronomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06971CD2-D374-44EC-9E77-DEE8FBDFF322}|Projet_Progra\\Projet_Progra.csproj|solutionrelative:projet_progra\\models\\chronomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06971CD2-D374-44EC-9E77-DEE8FBDFF322}|Projet_Progra\\Projet_Progra.csproj|c:\\users\\leofe\\desktop\\progra\\projet_progra\\projet_progra\\todo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06971CD2-D374-44EC-9E77-DEE8FBDFF322}|Projet_Progra\\Projet_Progra.csproj|solutionrelative:projet_progra\\todo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06971CD2-D374-44EC-9E77-DEE8FBDFF322}|Projet_Progra\\Projet_Progra.csproj|c:\\users\\leofe\\desktop\\progra\\projet_progra\\projet_progra\\helpers\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06971CD2-D374-44EC-9E77-DEE8FBDFF322}|Projet_Progra\\Projet_Progra.csproj|solutionrelative:projet_progra\\helpers\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06971CD2-D374-44EC-9E77-DEE8FBDFF322}|Projet_Progra\\Projet_Progra.csproj|c:\\users\\leofe\\desktop\\progra\\projet_progra\\projet_progra\\tasktotextdecorationconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06971CD2-D374-44EC-9E77-DEE8FBDFF322}|Projet_Progra\\Projet_Progra.csproj|solutionrelative:projet_progra\\tasktotextdecorationconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06971CD2-D374-44EC-9E77-DEE8FBDFF322}|Projet_Progra\\Projet_Progra.csproj|c:\\users\\leofe\\desktop\\progra\\projet_progra\\projet_progra\\views\\chrono.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06971CD2-D374-44EC-9E77-DEE8FBDFF322}|Projet_Progra\\Projet_Progra.csproj|solutionrelative:projet_progra\\views\\chrono.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06971CD2-D374-44EC-9E77-DEE8FBDFF322}|Projet_Progra\\Projet_Progra.csproj|c:\\users\\leofe\\desktop\\progra\\projet_progra\\projet_progra\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06971CD2-D374-44EC-9E77-DEE8FBDFF322}|Projet_Progra\\Projet_Progra.csproj|solutionrelative:projet_progra\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06971CD2-D374-44EC-9E77-DEE8FBDFF322}|Projet_Progra\\Projet_Progra.csproj|c:\\users\\leofe\\desktop\\progra\\projet_progra\\projet_progra\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06971CD2-D374-44EC-9E77-DEE8FBDFF322}|Projet_Progra\\Projet_Progra.csproj|solutionrelative:projet_progra\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,83 +46,71 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TaskToTextDecorationConverter.cs",
-              "DocumentMoniker": "C:\\Users\\leofe\\Desktop\\Progra\\Projet_Progra\\Projet_Progra\\TaskToTextDecorationConverter.cs",
-              "RelativeDocumentMoniker": "Projet_Progra\\TaskToTextDecorationConverter.cs",
-              "ToolTip": "C:\\Users\\leofe\\Desktop\\Progra\\Projet_Progra\\Projet_Progra\\TaskToTextDecorationConverter.cs",
-              "RelativeToolTip": "Projet_Progra\\TaskToTextDecorationConverter.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBUAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T08:35:21.43Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TaskItem.cs",
-              "DocumentMoniker": "C:\\Users\\leofe\\Desktop\\Progra\\Projet_Progra\\Projet_Progra\\TaskItem.cs",
-              "RelativeDocumentMoniker": "Projet_Progra\\TaskItem.cs",
-              "ToolTip": "C:\\Users\\leofe\\Desktop\\Progra\\Projet_Progra\\Projet_Progra\\TaskItem.cs",
-              "RelativeToolTip": "Projet_Progra\\TaskItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T08:32:02.239Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ToDo.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\leofe\\Desktop\\Progra\\Projet_Progra\\Projet_Progra\\ToDo.xaml.cs",
-              "RelativeDocumentMoniker": "Projet_Progra\\ToDo.xaml.cs",
-              "ToolTip": "C:\\Users\\leofe\\Desktop\\Progra\\Projet_Progra\\Projet_Progra\\ToDo.xaml.cs",
-              "RelativeToolTip": "Projet_Progra\\ToDo.xaml.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAIwDUAAAA2AAAAAAAAAA==",
+              "Title": "Chrono.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\leofe\\Desktop\\Progra\\Projet_Progra\\Projet_Progra\\Views\\Chrono.xaml.cs",
+              "RelativeDocumentMoniker": "Projet_Progra\\Views\\Chrono.xaml.cs",
+              "ToolTip": "C:\\Users\\leofe\\Desktop\\Progra\\Projet_Progra\\Projet_Progra\\Views\\Chrono.xaml.cs",
+              "RelativeToolTip": "Projet_Progra\\Views\\Chrono.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwCEAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T08:28:24.662Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ToDo.xaml",
-              "DocumentMoniker": "C:\\Users\\leofe\\Desktop\\Progra\\Projet_Progra\\Projet_Progra\\ToDo.xaml",
-              "RelativeDocumentMoniker": "Projet_Progra\\ToDo.xaml",
-              "ToolTip": "C:\\Users\\leofe\\Desktop\\Progra\\Projet_Progra\\Projet_Progra\\ToDo.xaml",
-              "RelativeToolTip": "Projet_Progra\\ToDo.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-02T08:15:56.072Z",
+              "WhenOpened": "2025-10-09T08:24:35.704Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Mail.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\leofe\\Desktop\\Progra\\Projet_Progra\\Projet_Progra\\Mail.xaml.cs",
-              "RelativeDocumentMoniker": "Projet_Progra\\Mail.xaml.cs",
-              "ToolTip": "C:\\Users\\leofe\\Desktop\\Progra\\Projet_Progra\\Projet_Progra\\Mail.xaml.cs",
-              "RelativeToolTip": "Projet_Progra\\Mail.xaml.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAD4vzQAAAAEAAAAAAAAAA==",
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\leofe\\Desktop\\Progra\\Projet_Progra\\Projet_Progra\\Helpers\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Projet_Progra\\Helpers\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\leofe\\Desktop\\Progra\\Projet_Progra\\Projet_Progra\\Helpers\\RelayCommand.cs",
+              "RelativeToolTip": "Projet_Progra\\Helpers\\RelayCommand.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T08:01:54.473Z",
+              "WhenOpened": "2025-10-09T08:03:12.804Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Mail.xaml",
-              "DocumentMoniker": "C:\\Users\\leofe\\Desktop\\Progra\\Projet_Progra\\Projet_Progra\\Mail.xaml",
-              "RelativeDocumentMoniker": "Projet_Progra\\Mail.xaml",
-              "ToolTip": "C:\\Users\\leofe\\Desktop\\Progra\\Projet_Progra\\Projet_Progra\\Mail.xaml",
-              "RelativeToolTip": "Projet_Progra\\Mail.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-02T08:01:34.979Z",
+              "Title": "ChronoModel.cs",
+              "DocumentMoniker": "C:\\Users\\leofe\\Desktop\\Progra\\Projet_Progra\\Projet_Progra\\Models\\ChronoModel.cs",
+              "RelativeDocumentMoniker": "Projet_Progra\\Models\\ChronoModel.cs",
+              "ToolTip": "C:\\Users\\leofe\\Desktop\\Progra\\Projet_Progra\\Projet_Progra\\Models\\ChronoModel.cs",
+              "RelativeToolTip": "Projet_Progra\\Models\\ChronoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T08:01:31.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChronoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\leofe\\Desktop\\Progra\\Projet_Progra\\Projet_Progra\\ViewModels\\ChronoViewModel.cs",
+              "RelativeDocumentMoniker": "Projet_Progra\\ViewModels\\ChronoViewModel.cs",
+              "ToolTip": "C:\\Users\\leofe\\Desktop\\Progra\\Projet_Progra\\Projet_Progra\\ViewModels\\ChronoViewModel.cs",
+              "RelativeToolTip": "Projet_Progra\\ViewModels\\ChronoViewModel.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAYwFMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T08:01:08.932Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Chrono.xaml",
+              "DocumentMoniker": "C:\\Users\\leofe\\Desktop\\Progra\\Projet_Progra\\Projet_Progra\\Views\\Chrono.xaml",
+              "RelativeDocumentMoniker": "Projet_Progra\\Views\\Chrono.xaml",
+              "ToolTip": "C:\\Users\\leofe\\Desktop\\Progra\\Projet_Progra\\Projet_Progra\\Views\\Chrono.xaml",
+              "RelativeToolTip": "Projet_Progra\\Views\\Chrono.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-09T08:00:37.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\leofe\\Desktop\\Progra\\Projet_Progra\\Projet_Progra\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Projet_Progra\\MainWindow.xaml",
@@ -138,13 +122,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\leofe\\Desktop\\Progra\\Projet_Progra\\Projet_Progra\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Projet_Progra\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\leofe\\Desktop\\Progra\\Projet_Progra\\Projet_Progra\\MainWindow.xaml.cs",
               "RelativeToolTip": "Projet_Progra\\MainWindow.xaml.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAkwB8AAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwDAAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-25T08:49:47.553Z",
               "EditorCaption": ""

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Projet_Progra.Views;
+using System;
 using System.Net;
 using System.Net.Mail;
 using System.Text;
@@ -41,6 +42,12 @@ namespace Projet_Progra
             ToDo todoWindow = new ToDo();
             todoWindow.Show();
             
+        }
+
+        private void OpenChrono_Click(object sender, RoutedEventArgs e) 
+        {
+            Chrono chronoWindow = new Chrono();
+            chronoWindow.Show();
         }
     }
 }

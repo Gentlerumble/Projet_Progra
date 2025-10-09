@@ -10,6 +10,7 @@
             <MenuItem Header="Fenêtres">
                 <MenuItem Header="Mail" Click="OpenMail_Click"/>
                 <MenuItem Header="To-Do List" Click="OpenToDo_Click"/>
+                <MenuItem Header="Chrono" Click="OpenChrono_Click"/>
             </MenuItem>
         </Menu>
 
